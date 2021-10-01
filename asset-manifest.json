@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/taTrainer/static/css/main.1fabc03d.chunk.css",
+    "main.js": "/taTrainer/static/js/main.c84cabc8.chunk.js",
+    "main.js.map": "/taTrainer/static/js/main.c84cabc8.chunk.js.map",
+    "runtime-main.js": "/taTrainer/static/js/runtime-main.2510d464.js",
+    "runtime-main.js.map": "/taTrainer/static/js/runtime-main.2510d464.js.map",
+    "static/css/2.f2512455.chunk.css": "/taTrainer/static/css/2.f2512455.chunk.css",
+    "static/js/2.93570949.chunk.js": "/taTrainer/static/js/2.93570949.chunk.js",
+    "static/js/2.93570949.chunk.js.map": "/taTrainer/static/js/2.93570949.chunk.js.map",
+    "static/js/3.0d39e1e6.chunk.js": "/taTrainer/static/js/3.0d39e1e6.chunk.js",
+    "static/js/3.0d39e1e6.chunk.js.map": "/taTrainer/static/js/3.0d39e1e6.chunk.js.map",
+    "index.html": "/taTrainer/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/taTrainer/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.1fabc03d.chunk.css.map": "/taTrainer/static/css/main.1fabc03d.chunk.css.map",
+    "static/js/2.93570949.chunk.js.LICENSE.txt": "/taTrainer/static/js/2.93570949.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2510d464.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.93570949.chunk.js",
+    "static/css/main.1fabc03d.chunk.css",
+    "static/js/main.c84cabc8.chunk.js"
+  ]
+}
